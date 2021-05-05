@@ -12,7 +12,8 @@ If you have an "IBM Diskette 1" image file dumped with a modern universal floppy
 
 # Usage
 
-```$ ./diskette1.py --help
+```
+$ ./diskette1.py --help
 
 usage: diskette1.py [-h] [-i] inputfile
 
@@ -24,5 +25,6 @@ positional arguments:
 optional arguments:
   -h, --help       show this help message and exit
   -i, --info-only  Print only metadata from first track. Do not extract
-                   individual files.```
+                   individual files.
+```
 
